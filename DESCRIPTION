@@ -1,5 +1,5 @@
 Package: beyonce
-Title: A Beyoncé Palette Generator
+Title: A Beyonce Palette Generator
 Description: Palettes generated from http://beyoncepalettes.tumblr.com
 Version: 0.1
 Authors@R: c(person("David", "Miller", role = c("aut", "cre"),
